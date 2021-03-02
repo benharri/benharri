@@ -11,3 +11,8 @@ some fun facts about me:
 - i'm left handed
 - i love to travel and have lived in ecuador and switzerland
 - i tend to avoid uppercase letters if i can help it
+
+see my [tilde page](https://tilde.team/~ben/) or [homepage](https://benharr.is)
+for more links etc.
+
+i'm gradually moving hobby projects to [tildegit](https://tildegit.org/ben).
