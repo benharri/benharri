@@ -15,4 +15,7 @@ some fun facts about me:
 see my [tilde page](https://tilde.team/~ben/) or [homepage](https://benharr.is)
 for more links etc.
 
+best place to find me is irc. i'm `ben` on [libera](https://libera.chat) and
+[tilde.chat](https://tilde.chat).
+
 i'm gradually moving hobby projects to [tildegit](https://tildegit.org/ben).
