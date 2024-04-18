@@ -18,4 +18,4 @@ for more links etc.
 best place to find me is irc. i'm `ben` on [libera](https://libera.chat) and
 [tilde.chat](https://tilde.chat).
 
-i'm gradually moving hobby projects to [tildegit](https://tildegit.org/ben).
+hobby projects mostly on [tildegit](https://tildegit.org/ben).
